@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Dec 07 13:50:37 PST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0151-7e6c-c9b1-ffff89ccbe25 
+on database directory /Users/pallavidas/Dropbox/workspace/BookShopping/Resources/BookDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/Users/pallavidas/Dropbox/workspace/BookShopping/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/pallavidas/Dropbox/workspace/BookShopping
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11
+derby.system.home=resources
+Database Class Loader started - derby.database.classpath=''
